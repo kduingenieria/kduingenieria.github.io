@@ -9,7 +9,7 @@ body {
 }
 
 p {
-    font-size: 20px;
+    font-size: 17px;
 }
 
 p.small {
@@ -458,4 +458,7 @@ footer .footer-below {
     opacity: 0;
 }
 
-#contact, #portfolio {margin-top: 50px;}
+#contact, #portfolio, #about {margin-top: 50px;}
+#about img{border: #eee 1px solid;border-radius: 5px;box-shadow: 10px 10px 5px #eee;}
+.team p {font-size:17px;}
+.team h3 {font-size:18px;text-transform:initial;}
