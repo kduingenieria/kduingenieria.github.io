@@ -462,5 +462,4 @@ footer .footer-below {
 #about img{border: #eee 1px solid;border-radius: 5px;box-shadow: 10px 10px 5px #eee;}
 .team .thumbnail h3 {font-size:18px;text-transform:initial;}
 #services{padding-top:150px;}
-.circle-icon {background: #2077b2;padding:30px;border-radius: 50%;
-}
+.error{color:#ff0000;}
