@@ -171,7 +171,7 @@ header .intro-text .skills {
 }
 
 section {
-    padding: 100px 0;
+    padding: 100px 0 50px 0;
 }
 
 section h2 {
@@ -458,8 +458,10 @@ footer .footer-below {
     opacity: 0;
 }
 
-#contact, #portfolio, #about {margin-top: 50px;}
+#contact, #portfolio, #about, #clientes {margin-top: 50px;}
 #about img{border: #eee 1px solid;border-radius: 5px;box-shadow: 10px 10px 5px #eee;}
 .team .thumbnail h3 {font-size:18px;text-transform:initial;}
 #services{padding-top:150px;}
 .error{color:#ff0000;}
+#clientes{padding-top: 0;}
+.portfolio-modal .tech {text-align:left;}
